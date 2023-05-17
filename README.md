@@ -22,6 +22,7 @@ pip install MetaTrader5
 
 ```bash
 python trading_bot.py
+```
 
 ## Strategy Description
 The strategy used in this project makes trading decisions based on analyzing RSI and moving average values. The currency pair chosen for trading is EUR/USD. The main principles of the strategy are as follows:
